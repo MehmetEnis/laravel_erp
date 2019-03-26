@@ -1,0 +1,6 @@
+/.idea
+/.env
+/vendor
+/node_modules
+/public/css/*
+/public/js/*
